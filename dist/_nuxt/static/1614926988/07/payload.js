@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/07", {data:[{prevData:void 0}],fetch:{},mutations:[]});

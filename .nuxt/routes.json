@@ -1,0 +1,101 @@
+[
+  {
+    "name": "04",
+    "path": "/04",
+    "component": "F:\\\\TNT\\\\Root\\\\Task\\\\Laravel_Vue_Vutify\\\\pure-spire-01435\\\\pages\\\\04\\\\index.vue",
+    "chunkName": "pages/04/index",
+    "_name": "_7814b81e"
+  },
+  {
+    "path": "/05",
+    "component": "F:\\\\TNT\\\\Root\\\\Task\\\\Laravel_Vue_Vutify\\\\pure-spire-01435\\\\pages\\\\05.vue",
+    "chunkName": "pages/05",
+    "children": [
+      {
+        "name": "05",
+        "path": "",
+        "component": "F:\\\\TNT\\\\Root\\\\Task\\\\Laravel_Vue_Vutify\\\\pure-spire-01435\\\\pages\\\\05\\\\index.vue",
+        "chunkName": "pages/05/index",
+        "_name": "_68b16d60"
+      },
+      {
+        "name": "05-add",
+        "path": "add",
+        "component": "F:\\\\TNT\\\\Root\\\\Task\\\\Laravel_Vue_Vutify\\\\pure-spire-01435\\\\pages\\\\05\\\\add.vue",
+        "chunkName": "pages/05/add",
+        "_name": "_b548c9c2"
+      },
+      {
+        "name": "05-detail",
+        "path": ":detail",
+        "component": "F:\\\\TNT\\\\Root\\\\Task\\\\Laravel_Vue_Vutify\\\\pure-spire-01435\\\\pages\\\\05\\\\_detail.vue",
+        "chunkName": "pages/05/_detail",
+        "_name": "_70f4956e"
+      }
+    ],
+    "_name": "_1faeb6f2"
+  },
+  {
+    "name": "06",
+    "path": "/06",
+    "component": "F:\\\\TNT\\\\Root\\\\Task\\\\Laravel_Vue_Vutify\\\\pure-spire-01435\\\\pages\\\\06.vue",
+    "chunkName": "pages/06",
+    "_name": "_1fbcce73"
+  },
+  {
+    "name": "07",
+    "path": "/07",
+    "component": "F:\\\\TNT\\\\Root\\\\Task\\\\Laravel_Vue_Vutify\\\\pure-spire-01435\\\\pages\\\\07\\\\index.vue",
+    "chunkName": "pages/07/index",
+    "_name": "_49ead7e4"
+  },
+  {
+    "name": "09",
+    "path": "/09",
+    "component": "F:\\\\TNT\\\\Root\\\\Task\\\\Laravel_Vue_Vutify\\\\pure-spire-01435\\\\pages\\\\09\\\\index.vue",
+    "chunkName": "pages/09/index",
+    "_name": "_2b244268"
+  },
+  {
+    "name": "04-add",
+    "path": "/04/add",
+    "component": "F:\\\\TNT\\\\Root\\\\Task\\\\Laravel_Vue_Vutify\\\\pure-spire-01435\\\\pages\\\\04\\\\add.vue",
+    "chunkName": "pages/04/add",
+    "_name": "_9ddbac00"
+  },
+  {
+    "name": "07-add",
+    "path": "/07/add",
+    "component": "F:\\\\TNT\\\\Root\\\\Task\\\\Laravel_Vue_Vutify\\\\pure-spire-01435\\\\pages\\\\07\\\\add.vue",
+    "chunkName": "pages/07/add",
+    "_name": "_e4230546"
+  },
+  {
+    "name": "07-detail",
+    "path": "/07/detail",
+    "component": "F:\\\\TNT\\\\Root\\\\Task\\\\Laravel_Vue_Vutify\\\\pure-spire-01435\\\\pages\\\\07\\\\detail.vue",
+    "chunkName": "pages/07/detail",
+    "_name": "_1e9afd45"
+  },
+  {
+    "name": "07-ListCustomer",
+    "path": "/07/ListCustomer",
+    "component": "F:\\\\TNT\\\\Root\\\\Task\\\\Laravel_Vue_Vutify\\\\pure-spire-01435\\\\pages\\\\07\\\\ListCustomer.vue",
+    "chunkName": "pages/07/ListCustomer",
+    "_name": "_5a38e5a0"
+  },
+  {
+    "name": "09-detail",
+    "path": "/09/:detail",
+    "component": "F:\\\\TNT\\\\Root\\\\Task\\\\Laravel_Vue_Vutify\\\\pure-spire-01435\\\\pages\\\\09\\\\_detail.vue",
+    "chunkName": "pages/09/_detail",
+    "_name": "_0f28882c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "F:\\\\TNT\\\\Root\\\\Task\\\\Laravel_Vue_Vutify\\\\pure-spire-01435\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1cbc6d75"
+  }
+]
