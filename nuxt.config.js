@@ -3,7 +3,8 @@ const webpack = require('webpack')
 
 export default {
     // Global page headers: https://go.nuxtjs.dev/config-head
-    target: 'ssr',
+    spa:true,
+    target: 'static',
     head: {
         titleTemplate: '%s - Premium Water',
         title: 'Premium Water',
