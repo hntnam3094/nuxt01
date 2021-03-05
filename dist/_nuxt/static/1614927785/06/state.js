@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1614927785",layout:"default",error:a,state:{area:{result:[],keyword:"",orderBy:b}},serverRendered:b,routePath:"\u002F06",config:{axios:{browserBaseURL:"https:\u002F\u002Fstill-tor-84792.herokuapp.com\u002Fapi"},app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a}}}}(null,true));
