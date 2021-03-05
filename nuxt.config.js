@@ -52,7 +52,13 @@ export default {
 
     axios: {
         baseURL: 'http://127.0.0.1:8000/api/',
+        proxy:true
     },
+      publicRuntimeConfig:{
+        axios:{
+          browserBaseURL:'https://still-tor-84792.herokuapp.com/api'
+        }
+      },
 
     // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify
     // vuetify: {
