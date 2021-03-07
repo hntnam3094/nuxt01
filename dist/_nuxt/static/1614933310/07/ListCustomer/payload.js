@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/07/ListCustomer", {data:[{keyword:void 0}],fetch:{},mutations:[]});

@@ -4,20 +4,20 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _7814b81e = () => interopDefault(import('..\\pages\\04\\index.vue' /* webpackChunkName: "pages/04/index" */))
-const _1faeb6f2 = () => interopDefault(import('..\\pages\\05.vue' /* webpackChunkName: "pages/05" */))
-const _68b16d60 = () => interopDefault(import('..\\pages\\05\\index.vue' /* webpackChunkName: "pages/05/index" */))
-const _b548c9c2 = () => interopDefault(import('..\\pages\\05\\add.vue' /* webpackChunkName: "pages/05/add" */))
-const _70f4956e = () => interopDefault(import('..\\pages\\05\\_detail.vue' /* webpackChunkName: "pages/05/_detail" */))
-const _1fbcce73 = () => interopDefault(import('..\\pages\\06.vue' /* webpackChunkName: "pages/06" */))
-const _49ead7e4 = () => interopDefault(import('..\\pages\\07\\index.vue' /* webpackChunkName: "pages/07/index" */))
-const _2b244268 = () => interopDefault(import('..\\pages\\09\\index.vue' /* webpackChunkName: "pages/09/index" */))
-const _9ddbac00 = () => interopDefault(import('..\\pages\\04\\add.vue' /* webpackChunkName: "pages/04/add" */))
-const _e4230546 = () => interopDefault(import('..\\pages\\07\\add.vue' /* webpackChunkName: "pages/07/add" */))
-const _1e9afd45 = () => interopDefault(import('..\\pages\\07\\detail.vue' /* webpackChunkName: "pages/07/detail" */))
-const _5a38e5a0 = () => interopDefault(import('..\\pages\\07\\ListCustomer.vue' /* webpackChunkName: "pages/07/ListCustomer" */))
-const _0f28882c = () => interopDefault(import('..\\pages\\09\\_detail.vue' /* webpackChunkName: "pages/09/_detail" */))
-const _1cbc6d75 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _364a69ce = () => interopDefault(import('..\\pages\\04\\index.vue' /* webpackChunkName: "pages/04/index" */))
+const _75ba1fb5 = () => interopDefault(import('..\\pages\\05.vue' /* webpackChunkName: "pages/05" */))
+const _3dfc0f2d = () => interopDefault(import('..\\pages\\05\\index.vue' /* webpackChunkName: "pages/05/index" */))
+const _22f2343c = () => interopDefault(import('..\\pages\\05\\add.vue' /* webpackChunkName: "pages/05/add" */))
+const _bda14fea = () => interopDefault(import('..\\pages\\05\\_detail.vue' /* webpackChunkName: "pages/05/_detail" */))
+const _75c83736 = () => interopDefault(import('..\\pages\\06.vue' /* webpackChunkName: "pages/06" */))
+const _4d5f59eb = () => interopDefault(import('..\\pages\\07\\index.vue' /* webpackChunkName: "pages/07/index" */))
+const _5cc2a4a9 = () => interopDefault(import('..\\pages\\09\\index.vue' /* webpackChunkName: "pages/09/index" */))
+const _2ea8c31d = () => interopDefault(import('..\\pages\\04\\add.vue' /* webpackChunkName: "pages/04/add" */))
+const _0b85167a = () => interopDefault(import('..\\pages\\07\\add.vue' /* webpackChunkName: "pages/07/add" */))
+const _124219f0 = () => interopDefault(import('..\\pages\\07\\detail.vue' /* webpackChunkName: "pages/07/detail" */))
+const _620a369a = () => interopDefault(import('..\\pages\\07\\ListCustomer.vue' /* webpackChunkName: "pages/07/ListCustomer" */))
+const _28a67e87 = () => interopDefault(import('..\\pages\\09\\_detail.vue' /* webpackChunkName: "pages/09/_detail" */))
+const _3670a9d2 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -32,59 +32,59 @@ export const routerOptions = {
 
   routes: [{
     path: "/04",
-    component: _7814b81e,
+    component: _364a69ce,
     name: "04"
   }, {
     path: "/05",
-    component: _1faeb6f2,
+    component: _75ba1fb5,
     children: [{
       path: "",
-      component: _68b16d60,
+      component: _3dfc0f2d,
       name: "05"
     }, {
       path: "add",
-      component: _b548c9c2,
+      component: _22f2343c,
       name: "05-add"
     }, {
       path: ":detail",
-      component: _70f4956e,
+      component: _bda14fea,
       name: "05-detail"
     }]
   }, {
     path: "/06",
-    component: _1fbcce73,
+    component: _75c83736,
     name: "06"
   }, {
     path: "/07",
-    component: _49ead7e4,
+    component: _4d5f59eb,
     name: "07"
   }, {
     path: "/09",
-    component: _2b244268,
+    component: _5cc2a4a9,
     name: "09"
   }, {
     path: "/04/add",
-    component: _9ddbac00,
+    component: _2ea8c31d,
     name: "04-add"
   }, {
     path: "/07/add",
-    component: _e4230546,
+    component: _0b85167a,
     name: "07-add"
   }, {
     path: "/07/detail",
-    component: _1e9afd45,
+    component: _124219f0,
     name: "07-detail"
   }, {
     path: "/07/ListCustomer",
-    component: _5a38e5a0,
+    component: _620a369a,
     name: "07-ListCustomer"
   }, {
     path: "/09/:detail",
-    component: _0f28882c,
+    component: _28a67e87,
     name: "09-detail"
   }, {
     path: "/",
-    component: _1cbc6d75,
+    component: _3670a9d2,
     name: "index"
   }],
 
