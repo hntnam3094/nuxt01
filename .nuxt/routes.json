@@ -3,7 +3,8 @@
     "name": "04",
     "path": "/04",
     "component": "D:\\\\LAMPART\\\\LARAVEL\\\\pure-spire-01435\\\\pages\\\\04\\\\index.vue",
-    "chunkName": "pages/04/index"
+    "chunkName": "pages/04/index",
+    "_name": "_364a69ce"
   },
   {
     "path": "/05",
@@ -14,74 +15,87 @@
         "name": "05",
         "path": "",
         "component": "D:\\\\LAMPART\\\\LARAVEL\\\\pure-spire-01435\\\\pages\\\\05\\\\index.vue",
-        "chunkName": "pages/05/index"
+        "chunkName": "pages/05/index",
+        "_name": "_3dfc0f2d"
       },
       {
         "name": "05-add",
         "path": "add",
         "component": "D:\\\\LAMPART\\\\LARAVEL\\\\pure-spire-01435\\\\pages\\\\05\\\\add.vue",
-        "chunkName": "pages/05/add"
+        "chunkName": "pages/05/add",
+        "_name": "_22f2343c"
       },
       {
         "name": "05-detail",
         "path": ":detail",
         "component": "D:\\\\LAMPART\\\\LARAVEL\\\\pure-spire-01435\\\\pages\\\\05\\\\_detail.vue",
-        "chunkName": "pages/05/_detail"
+        "chunkName": "pages/05/_detail",
+        "_name": "_bda14fea"
       }
-    ]
+    ],
+    "_name": "_75ba1fb5"
   },
   {
     "name": "06",
     "path": "/06",
     "component": "D:\\\\LAMPART\\\\LARAVEL\\\\pure-spire-01435\\\\pages\\\\06.vue",
-    "chunkName": "pages/06"
+    "chunkName": "pages/06",
+    "_name": "_75c83736"
   },
   {
     "name": "07",
     "path": "/07",
     "component": "D:\\\\LAMPART\\\\LARAVEL\\\\pure-spire-01435\\\\pages\\\\07\\\\index.vue",
-    "chunkName": "pages/07/index"
+    "chunkName": "pages/07/index",
+    "_name": "_4d5f59eb"
   },
   {
     "name": "09",
     "path": "/09",
     "component": "D:\\\\LAMPART\\\\LARAVEL\\\\pure-spire-01435\\\\pages\\\\09\\\\index.vue",
-    "chunkName": "pages/09/index"
+    "chunkName": "pages/09/index",
+    "_name": "_5cc2a4a9"
   },
   {
     "name": "04-add",
     "path": "/04/add",
     "component": "D:\\\\LAMPART\\\\LARAVEL\\\\pure-spire-01435\\\\pages\\\\04\\\\add.vue",
-    "chunkName": "pages/04/add"
+    "chunkName": "pages/04/add",
+    "_name": "_2ea8c31d"
   },
   {
     "name": "07-add",
     "path": "/07/add",
     "component": "D:\\\\LAMPART\\\\LARAVEL\\\\pure-spire-01435\\\\pages\\\\07\\\\add.vue",
-    "chunkName": "pages/07/add"
+    "chunkName": "pages/07/add",
+    "_name": "_0b85167a"
   },
   {
     "name": "07-detail",
     "path": "/07/detail",
     "component": "D:\\\\LAMPART\\\\LARAVEL\\\\pure-spire-01435\\\\pages\\\\07\\\\detail.vue",
-    "chunkName": "pages/07/detail"
+    "chunkName": "pages/07/detail",
+    "_name": "_124219f0"
   },
   {
     "name": "07-ListCustomer",
     "path": "/07/ListCustomer",
     "component": "D:\\\\LAMPART\\\\LARAVEL\\\\pure-spire-01435\\\\pages\\\\07\\\\ListCustomer.vue",
-    "chunkName": "pages/07/ListCustomer"
+    "chunkName": "pages/07/ListCustomer",
+    "_name": "_620a369a"
   },
   {
     "name": "09-detail",
     "path": "/09/:detail",
     "component": "D:\\\\LAMPART\\\\LARAVEL\\\\pure-spire-01435\\\\pages\\\\09\\\\_detail.vue",
-    "chunkName": "pages/09/_detail"
+    "chunkName": "pages/09/_detail",
+    "_name": "_28a67e87"
   },
   {
     "name": "index",
     "path": "/",
     "component": "D:\\\\LAMPART\\\\LARAVEL\\\\pure-spire-01435\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_3670a9d2"
   }
 ]
